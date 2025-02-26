@@ -19,3 +19,8 @@ bootcamp tailwind, codepen. 중요. 기억
 
 margin 문제 해결 완료. 객체 button box의 width를 너무 작게 고정 시키고, 그 보다 상위 
 객체를 신경 안 써서 그럼. flex 설정 조금 바꾸고, width 다시 설정해서 수정완료. 
+
+
+![image](https://github.com/user-attachments/assets/c7f67a25-77f6-42b8-a122-9f3ff300b511)
+
+으악.  .조심하기 ;조심하기. 
