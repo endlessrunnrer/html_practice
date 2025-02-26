@@ -24,3 +24,5 @@ margin 문제 해결 완료. 객체 button box의 width를 너무 작게 고정 
 ![image](https://github.com/user-attachments/assets/c7f67a25-77f6-42b8-a122-9f3ff300b511)
 
 으악.  .조심하기 ;조심하기. 
+
+하 진짜 이 온점때문에 십 분동안 날리침. ㄷㄷ
